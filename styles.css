@@ -13,12 +13,12 @@ body {
   
   header h1 {
     margin: 0;
-    color: #333; /* Change the color here */
-  }  
-  
-  header p {
-    margin-top: 5px;
     color: red;
+}  
+
+header p {
+    margin-top: 5px;
+    color: #333; /* Change the color here */
   }
   
   section h2 {
